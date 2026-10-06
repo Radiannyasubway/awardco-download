@@ -85,3 +85,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for Awardco.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit Awardco on SOFTGIT](https://softgit.pro/p/awardco)** — the full listing.
+- 📄 **[Awardco web page](https://radiannyasubway.github.io/awardco-download/)** — standalone info page.
+- 🗂️ [More Business software](https://softgit.pro/category/business)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for Awardco. Third-party software; all rights belong to the original authors.
